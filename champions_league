@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<header>
+    <h1>UEFA Champions League Winners Over The Years: An Image Gallery</h1>
+</header>
+<body>
+    <div class="gallery-container">
+        <div class="gallery-item">
+          <img src="https://ichef.bbci.co.uk/news/2048/cpsprodpb/b064/live/8f9e7040-20a6-11ef-80aa-699d54c46324.jpg" alt="Real Madrid Lifting the Champions League in 2024">
+          <div class="overlay">
+            <div class="text">Real Madrid 2023-2024</div>
+          </div>
+        </div>
+        <div class="gallery-item">
+          <img src="https://boardroom.tv/wp-content/uploads/2023/08/sipa_47400591-e1693240265801.jpg"  alt="Manchester City lifting the Champions League Trophy in 2023">
+          <div class="overlay">
+            <div class="text">Man City 2022-2023</div>
+          </div>
+        </div>
+        <div class="gallery-item">
+          <img src="https://e0.365dm.com/22/05/2048x1152/skysports-reak-real-madrid_5787448.jpg?20220529012338" alt="Real Madrid Lifting the Champions League in 2022">
+          <div class="overlay">
+            <div class="text">Real Madrid 2021-2022</div>
+          </div>
+        </div>
+        <div class="gallery-item">
+          <img src="https://i.guim.co.uk/img/media/a2e075098a07118b6494d6f80c9233a7fcaedc94/158_430_5166_3100/master/5166.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=cb5997a34b198716669c5f2de68c5947" alt="Chelsea lifting the Champions League in 2021">
+          <div class="overlay">
+            <div class="text">Chelsea 2020-2021</div>
+          </div>
+        </div>
+        <div class="gallery-item">
+          <img src="https://editorial.uefa.com/resources/0260-1033fd918eef-6d9d853fde2d-1000/paris_saint-germain_v_bayern_munich_-_uefa_champions_league_final.jpeg" alt="Bayern Munich lifting the Champions League in 2020">
+          <div class="overlay">
+            <div class="text">Bayern Munich 2019-2020</div>
+          </div>
+        </div>
+      </div>
+      <div class="gallery-item">
+        <img src="https://assets.goal.com/images/v3/bltc7afcb88964bda09/ffefdd179faa93d59fdb4ea7939d450bf6283dc3.jpg" alt="Liverpool lifting the Champions League in 2019">
+        <div class="overlay">
+          <div class="text">Liverpool 2018-2019</div>
+        </div>
+      </div>
+    </div>
+</body>
+</html>
